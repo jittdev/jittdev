@@ -36,9 +36,29 @@ Technology consulting, custom software, cloud infrastructure, digital products, 
 **Former Interim CTO / Engineering Manager — CrypTech Studios, Inc. dba Development Ghost Writers**  
 Led distributed engineering resources and technology delivery across client projects.
 
-## Selected Work
+## Commercial Software Development
 
-My repositories below highlight work across applied AI/ML, production software development, cloud infrastructure, Ruby on Rails, Python, and Unreal Engine development.
+In addition to the public projects shown here, I have designed, developed, deployed, and maintained production software and web applications for commercial clients through **JITT Holdings, Inc.**
+
+This work includes:
+
+- Ruby on Rails applications and custom business software
+- Customer management, inventory, workflow, and operational systems
+- MySQL and PostgreSQL database design and administration
+- REST/API integrations and third-party services
+- Linux server setup, deployment, administration, and troubleshooting
+- nginx, Passenger, Docker, cron, SSL/TLS, and production infrastructure
+- Cloud hosting and infrastructure, including IONOS Cloud and AWS
+- CI/CD, Git-based deployment workflows, application migrations, and production support
+- Responsive web interfaces using Bootstrap, JavaScript, HTML, and CSS
+
+Much of this work supports active businesses and is maintained in **private client repositories**. Client source code and proprietary business systems are therefore not included in this public portfolio.
+
+## Selected Public Work
+
+The repositories highlighted below represent selected work that can be shared publicly. They demonstrate experience across **AI/ML, Python, software architecture, data processing, containerization, databases, automation, and production-oriented application development**.
+
+Additional professional software projects remain private due to client confidentiality and intellectual-property considerations.
 
 <!--
 **jittdev/jittdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
