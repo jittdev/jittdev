@@ -2,11 +2,11 @@
 
 ### Technology Executive | AI/ML Engineer | Software Engineering | Cloud Infrastructure
 
-Technology executive, consultant, software engineer, and AI/ML engineer with 14+ years of experience spanning technology leadership, software delivery, cloud infrastructure, product development, and business operations.
+Technology executive, software engineer, and AI/ML engineer with 14+ years of experience spanning technology leadership, software delivery, cloud infrastructure, product development, and business operations.
 
-Currently working as an Engineer / AI Trainer evaluating and improving large language models while continuing to lead technology consulting and implementation through JITT Holdings, Inc.
+Co-Founder, CEO and President of Digimasq AI, Inc., focused on building and commercializing proprietary AI technologies for persistent systems, world modeling, behavioral intelligence, simulation, multi-agent environments, and decision support.
 
-My background combines executive technology leadership with hands-on engineering experience, allowing me to work across business strategy, product requirements, architecture, engineering, infrastructure, and production operations.
+My background combines executive technology leadership with hands-on engineering and AI/ML experience, allowing me to work across business strategy, product requirements, architecture, engineering, infrastructure, and production operations.
 
 ## Current Focus
 
